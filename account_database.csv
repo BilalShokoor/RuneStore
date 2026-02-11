@@ -6,33 +6,124 @@ empirers.sell.app,Starter,Melee Starter,OTP 70 Base Melee Trade Unlocked,,,,70,7
 empirers.sell.app,Starter,Melee Starter,OTP 80 Base Melee Trade Unlocked,,,,80,80,80,,,,20,Trade Unlocked,5.99,USD,45,Jagex Launcher OTP
 empirers.sell.app,Mid-tier,Melee + Range,OTP 60 Range 40 Melee Trade Unlocked,,,40,40,40,60,,,,20,Trade Unlocked,0.99,USD,0,Jagex Launcher OTP
 empirers.sell.app,Mid-tier,Melee + Range,OTP 70 Range 40 Melee Trade Unlocked,,,40,40,40,70,,,,20,Trade Unlocked,1.29,USD,0,Jagex Launcher OTP
-empirers.sell.app,Mid-tier,Total Level,OTP 500TTL Trade Unlocked,,,500,,,,,,,,20,Trade Unlocked,1.49,USD,174,Jagex Launcher OTP
+empirers.sell.app,Mid-tier,Total Level,OTP 500TTL Trade Unlocked,,500,,,,,,,,20,Trade Unlocked,1.49,USD,174,Jagex Launcher OTP
 empirers.sell.app,Mid-tier,Total Level,OTP 750TTL Trade Unlocked,,750,,,,,,,,,Trade Unlocked,3.99,USD,16,Jagex Launcher OTP
 empirers.sell.app,Premium,Barrows Gloves,OTP Barrows Gloves 70 Base Melee,,,70,70,70,,,,,176-210,Barrows Gloves,14.99,USD,0,Jagex Launcher OTP
 rsaccounts.ca,Mid-tier,Main,1600 TL Base 70 Kills 100 QP,,1600,70+,70+,70+,70+,70+,,70+,100,Base 70 stats - multiple quests,195.00,USD,1,
 rsaccounts.ca,Pure,1 Def Pure,1 Defense + Rock Golem Pet,,,,,1,,,,,,Rock Golem Pet - 20 quests,17.50,USD,1,
 rsaccounts.ca,Pure,1 Def Pure,1 Defense 94 Magic,,,,,1,,94,,,0,,26.00,USD,0,
-rsorder.com,Staker,Max Melee,Max Melee Staker 99 ATT/STR/DEF,,,99,99,99,,,,,,Hand-trained,69.99,USD,,
-rsorder.com,Premium,End Game Main,Sick End Game Main 2256 Total 332 QP,,2256,,,,,,,,332,Maxed combat - end game gear,4599.59,USD,,
-rsorder.com,Premium,End Game Main,Quest Cape End Game Main (low),,,,,,,,,,267+,Quest Cape,329.59,USD,,
-rsorder.com,Premium,End Game Main,Quest Cape End Game Main (high),,,,,,,,,,267+,Quest Cape + extras,459.59,USD,,
-rsorder.com,Premium,End Game Main,Epic Infernal Main (low),,,,,,,,,,,,Infernal Cape,425.59,USD,,
-rsorder.com,Premium,End Game Main,Epic Infernal Main (high),,,,,,,,,,,,Infernal Cape + Quiver,599.59,USD,,
-rsorder.com,Pure,Max Pure,Maxed AGS Infernal Pure 99 STR/RAN/MAG,,,75,99,,99,99,,,, Infernal Cape,359.59,USD,,
-rsorder.com,Pure,Infernal Pure,Infernal/Quiver Pure 52-75 ATT (low),,,52,,,,,,,,,299.59,USD,,
-rsorder.com,Pure,Infernal Pure,Infernal/Quiver Pure 52-75 ATT (high),,,75,,,,,,,,,559.59,USD,,
-rsorder.com,Pure,F2P Pure,F2P Pure 40 ATT 99 STR/RAN/MAG,,,40,99,,99,99,,,,F2P optimized,215.59,USD,,
-rsorder.com,Pure,Obby Mauler,Obby Mauler Pure 99 STR/Range/MAG,,,,99,,99,99,,,,Obby Mauler build,219.59,USD,,
-rsorder.com,Pure,Dark Bow Pure,Dark Bow Pure 99 Range 10 HP,,,,,,99,,,10,,10 HP - Dark Bow spec,279.59,USD,,
-rsorder.com,Ironman,HCIM,Hardcore Ironman (low),,,,,,,,,,,FC + BG,199.59,USD,,
-rsorder.com,Ironman,HCIM,Hardcore Ironman (high),,,,,,,,,,,FC + BG + extras,299.99,USD,,
-rsorder.com,Ironman,Regular Ironman,Regular Ironman,,,,,,,,,,,,249.59,USD,,
-rsorder.com,Mid-tier,DS2 Main,Maxed Melee DS2 Account,,,,,,,,,,,,DS2 complete,279.59,USD,,
-ezrsaccounts.com,Pure,1 Def Pure,40 ATT 90 STR Pure,62,,,40,90,1,,,,,,47.32,EUR,11,Jagex Launcher
-ezrsaccounts.com,Pure,1 Def Pure,40 ATT 90 STR Pure w/ 99 Range,71,,40,90,1,99,,,,,,138.83,EUR,4,Jagex Launcher
-ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure,67,,40,99,1,,,,,,Hand-trained,83.26,EUR,13,
-ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 70 Range,67,,40,99,1,70,,,,,Hand-trained,100.44,EUR,9,
-ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 80 Range,67,,40,99,1,80,,,,,Hand-trained,108.65,EUR,10,
-ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 90 Range,68,,40,99,1,90,,,,,Hand-trained,146.64,EUR,13,
-ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 99 RAN + Mith Gloves,77,,40,99,1,99,,,,,Mith Gloves,169.20,EUR,8,Jagex Launcher
-ezrsaccounts.com,Mid-tier,Main,75 ATT 99 STR Main w/ 75 DEF 80 RAN/MAG,98,,75,99,75,80,80,,,,Hand-trained,108.46,EUR,,Jagex Launcher
+rsorder.com,Staker,Max Melee,Max Melee Staker 99 ATT/STR/DEF,,,99,99,99,,,,,,Hand-trained,69.99,USD,,Legacy
+rsorder.com,Premium,End Game Main,Sick End Game Main 2256 Total 332 QP,,2256,,,,,,,,332,Infernal Cape + Quiver + QPC + 11B Bank + 18 Pets,4599.59,USD,,
+rsorder.com,Premium,End Game Main,Sick Infernal & QPC Main 2282 Total,,2282,,,,,,,,322,14x 99s + Infernal Cape + Full Diaries + 5 Pets,1059.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (A),,1868,99,99,99,,,,,332,Quest Cape + 99 RC + Rift Pet,459.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (B),,1815,85,85,81,82,99,,,332,Most Achievement Diaries,335.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (C),,1800,99,99,99,79,85,,,332,Quest Cape + 71 Slayer,399.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (D),,1879,99,99,99,86,88,,,322,99 Thieving/Mining + Loaded Untradables (Resale),369.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (E),,1766,93,95,99,80,90,,,328,70 Slayer + 82 Agility,359.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (F),,1714,92,92,92,82,78,,,328,70 Slayer + 71 Farming,339.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (G),,1727,87,95,87,80,80,,,328,71 Slayer + 77 Farming,329.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (H),,1730,99,99,99,76,78,,,328,70 Slayer + 70 Farming,359.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (I),,1700,93,95,89,77,78,,,328,70 Slayer + 70 Farming,329.59,USD,,
+rsorder.com,Premium,End Game Main,Epic Infernal & Quiver Main,,1851,99,99,99,99,99,99,,332,Infernal Cape + QPC + Loaded Untradables,599.59,USD,,
+rsorder.com,Premium,End Game Main,Epic Infernal & Quiver Main (Mid),,1722,92,92,92,77,76,,,332,Quest Cape + Loaded Untradables,425.59,USD,,
+rsorder.com,Mid-tier,Combat Main,No Email Set Combat Account,,1686,88,88,85,92,86,,,191,Barrows Gloves + Lunars + Fire Cape + Dragon Defender,179.59,USD,,No Email Set
+rsorder.com,Mid-tier,Main,Maxed Melee w/ Infernal,,,99,99,99,99,,,,,Infernal Cape + Quiver + BG + Rare Legacy,269.59,USD,,Legacy
+rsorder.com,Pure,Max Pure,Maxed AGS Infernal Pure,87,,75,99,,99,99,50,,,"Infernal Cape + Quiver + Ava's + DT",359.59,USD,,
+rsorder.com,Pure,Infernal Pure,Epic 52 ATT Infernal Pure,73,,52,80,,81,99,,,,Infernal Cape + Quiver + Mith Gloves + DT,319.59,USD,,
+rsorder.com,Pure,Infernal Pure,Maxed 75 ATT Infernal Med,,,75,94,,90,99,,,,"Infernal Cape + QPC + DT2 + DS2 + MM2 + SOTE + Piety",559.59,USD,,
+rsorder.com,Pure,F2P Pure,Maxed F2P Pure 40 ATT,71,,40,99,,99,99,,,,,215.59,USD,,No Email Set
+rsorder.com,Pure,Obby Mauler,Obby Mauler Pure 99 STR/Range/MAG,71,,,99,,99,99,,,,Legacy,219.59,USD,,Legacy
+rsorder.com,Pure,Dark Bow Pure,10 HP Dark Bow Pure 99 Range,50,,,,,,99,,,10,16M Gear Value + No Email Set,279.59,USD,,No Email Set
+rsorder.com,Pure,Infernal Pure,No Email Set Baby Pure (A),65,888,,,,,,,,,87,Infernal Cape + Quiver + Imbued Zammy Cape + Mith Gloves,299.59,USD,,No Email Set
+rsorder.com,Pure,Infernal Pure,No Email Set Baby Pure (B),65,898,,,,,,,,,87,Infernal Cape + Quiver + Imbued Zammy Cape + Mith Gloves,299.59,USD,,No Email Set
+rsorder.com,Zerker,Infernal Zerker,Maxed 50 ATT Infernal Zerker,88,,50,99,42,99,94,,,,Infernal Cape + Quiver + BG + Lunars + Void + Fighter Torso,419.59,USD,,
+rsorder.com,Ironman,HCIM,HCIM Barrows Gloves + Graceful,,1091,,,,,,,,176,99 FM + 70 Agility + BG + Graceful + Tome of Fire + Pyromancer,299.99,USD,,
+rsorder.com,Ironman,HCIM,HCIM Starter Main,,,,,,,,,,,Barrows Gloves + Graceful,259.59,USD,,
+rsorder.com,Ironman,HCIM,HCIM Skilling Account,,,,,,,,84,,,,99 FM + 66 RC + 80 Mining + 78 WC + 76 Fish + Graceful,199.59,USD,,
+rsorder.com,Ironman,Regular Ironman,Ironman BG + Graceful,,1072,,,,,,,,176,99 FM + 70 Agility + BG + Graceful + Pyromancer,249.59,USD,,
+rsorder.com,Mid-tier,DS2 Main,Maxed Melee DS2 Account (A),,1362,99,99,99,83,75,,,206,Infernal Cape + Quiver + Lunars + BG,279.59,USD,,No Email Set
+rsorder.com,Mid-tier,DS2 Main,Maxed Melee DS2 Account (B),,1363,99,99,99,84,75,,,206,Infernal Cape + Quiver + Lunars + BG,279.59,USD,,No Email Set
+rsorder.com,Mid-tier,PvM Ready,DS2 Vorkath Ready Account,,1290,72,65,75,75,75,74,,205,DS2 complete + Void Set + Lunars + Salve Amulet (ei),139.59,USD,,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 90 STR Pure,62,,,40,90,1,,,,,,54.53,USD,11,Jagex Launcher
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 90 STR Pure w/ 99 Range,71,,40,90,1,99,,,,,,160.00,USD,4,Jagex Launcher
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure,67,,40,99,1,,,,,,Hand-trained,95.95,USD,13,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 70 Range,67,,40,99,1,70,,,,,Hand-trained,115.75,USD,9,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 80 Range,67,,40,99,1,80,,,,,Hand-trained,125.22,USD,10,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 90 Range,68,,40,99,1,90,,,,,Hand-trained,169.00,USD,13,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 99 RAN + Mith Gloves,77,,40,99,1,99,,,,,Mith Gloves,195.00,USD,8,Jagex Launcher
+ezrsaccounts.com,Pure,1 Def Pure,75 ATT Pure 99 STR 80 RNG 94 MAG,79,,75,99,1,80,94,,,,Hand-trained,172.00,USD,1,Jagex Launcher
+ezrsaccounts.com,Pure,Gmaul Pure,Gmaul/Atlatl Pure 80 STR w/ 75 RNG,60,,,80,1,75,,,,,Granite Maul build,43.90,USD,6,Jagex Launcher
+ezrsaccounts.com,Pure,Gmaul Pure,Maxed Gmaul Pure w/ DT + Mith Gloves + Ava's,78,,,,1,,,,,,DT + Mith Gloves + Ava's,309.00,USD,1,Jagex Launcher
+ezrsaccounts.com,Zerker,Infernal Zerker,90 STR Zerker w/ 94 RNG & MAG + Infernal Cape (176 QP),84,,,90,45,94,94,,,176,Infernal Cape + BG,456.00,USD,1,Jagex Launcher
+ezrsaccounts.com,Zerker,Infernal Zerker,90 STR Zerker w/ 94 RNG & MAG + Infernal Cape (177 QP),84,,,90,45,94,94,,,177,Infernal Cape + BG,456.00,USD,1,Jagex Launcher
+ezrsaccounts.com,Mid-tier,Main,99 ATT/STR/DEF Main 80 RNG 85 MAG,113,,99,99,99,80,85,,,,Hand-trained,130.00,USD,1,
+ezrsaccounts.com,Mid-tier,Main,99 ATT/STR/DEF Main 80 RNG 94 MAG,113,,99,99,99,80,94,,,,Hand-trained,183.00,USD,1,
+ezrsaccounts.com,Mid-tier,Main,99 ATT/STR/DEF Main 80 RNG 99 MAG,113,,99,99,99,80,99,,,,Hand-trained,116.00,USD,1,
+ezrsaccounts.com,Mid-tier,Main,99 ATT/STR/DEF Main 90 RNG 94 MAG,113-119,,99,99,99,90,94,,,,Hand-trained,190.00,USD,7,
+ezrsaccounts.com,Mid-tier,Main,99 ATT/STR/DEF Main 90 RNG 99 MAG,113,,99,99,99,90,99,,,,Hand-trained,141.00,USD,1,
+ezrsaccounts.com,Mid-tier,Main,75 ATT 99 STR Staker/Main w/ 75 DEF 80 RNG/MAG,98,,75,99,75,80,80,,,,Hand-trained,116.00,USD,5,Jagex Launcher
+luckycharmgold.com,Pure,Staff Pure,Staff Of The Death Pure 85 Magic,57,,75,,,,,,,,,59.00,USD,,Jagex Launcher
+luckycharmgold.com,Pure,Max Pure,Maxed Vesta Pure w/ Fire Cape,83,,,99,,99,,,,,,199.00,USD,,Legacy No Email
+luckycharmgold.com,Pure,Max Pure,Maxed Dclaws Pure (Minor Ban 25% off),82,,60,99,,99,,,,,,172.00,USD,,Jagex Launcher
+luckycharmgold.com,Pure,Max Pure,Maxed Dragon Claws Pure Infernal & Quiver,83,,60,99,,99,,,,,All Pure Quests,399.00,USD,,
+luckycharmgold.com,Pure,Max Pure,Maxed AGS Pure Infernal & Quiver,87,,75,99,,99,,,,,,399.00,USD,,
+luckycharmgold.com,Pure,F2P Pure,Maxed F2P Pure 99s,71,,40,99,,99,,,,,No Email Registered,89.00,USD,,No Email
+luckycharmgold.com,Pure,Obby Mauler,Obby Mauler Pure (90 STR),49,,1,90,,60,,,,,,89.00,USD,,Jagex Launcher
+luckycharmgold.com,Pure,Obby Mauler,Obby Mauler Pure (80 STR),47,,1,80,,60,,,,,,59.00,USD,,Jagex Launcher
+luckycharmgold.com,Pure,Obby Mauler,Vesta Obby Mauler w/ Fire Cape,63,,1,99,20,61,,,,,Fire Cape,219.00,USD,,
+luckycharmgold.com,Pure,Gmaul Pure,Granite Maul Pure,69,,50,90,,90,94,,,,No Email Set,119.00,USD,,No Email
+luckycharmgold.com,Pure,Gmaul Pure,Granite Maul Pure w/ Fire Cape,67,,50,80,,80,85,,,,,79.00,USD,,Jagex Launcher
+luckycharmgold.com,Pure,Gmaul Pure,Granite Maul Pure 80 (15 Prayer),63,,50,80,,80,,,,,15 Prayer,79.00,USD,,Jagex Launcher
+luckycharmgold.com,Pure,Max Pure,Maxed Gmaul Pure 15 Prayer,73,,50,99,,99,,15,,,83 Construction + All Pure Quests,199.00,USD,,
+luckycharmgold.com,Pure,Max Pure,Maxed AGS Pure,87,,75,99,,99,,,,,,199.00,USD,,Jagex Launcher
+luckycharmgold.com,Pure,F2P Pure,F2P Pure (40/90/90),65,,40,90,,90,,,,,No Email Registered,59.00,USD,,No Email
+luckycharmgold.com,Main,PvM Ready,Zulrah Ready (80s),80,,,,,,80,,,80,,49.00,USD,,Legacy No Email
+luckycharmgold.com,Main,PvM Ready,Zulrah Ready (90s),87,,,,,,90,,,90,,79.00,USD,,Legacy No Email
+luckycharmgold.com,Main,PvM Ready,Zulrah Ready (95s),91,,,,,,95,,,95,,99.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Starter,Barrows Gloves Account,60,200,,,,,,,,,Barrows Gloves,49.00,USD,,Jagex Launcher
+luckycharmgold.com,Main,PvM Ready,Rune Dragon Ready,110,,90,90,90,,,,,,,149.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Med Level,Piety Med Level (50 ATT),93,,50,90,,90,94,70,,,,179.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Starter,Starter Main Account (5 variants),101,,80,80,80,80,80,70,,,,139.00,USD,5,Jagex Launcher
+luckycharmgold.com,Main,Max Main,Max Main (B Gloves + Lunar),123,1291,99,99,99,99,99,,,,BG + Lunars,249.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Med Level,Piety Med Level (60 ATT Jagex),96,,60,90,,90,94,,,,Piety,179.00,USD,,Jagex Launcher
+luckycharmgold.com,Main,Med Level,Maxed Med Level Infernal + Quiver + Rocky Pet,108,,75,99,75,99,,,,,Infernal Cape + Quiver + Rocky Pet,569.00,USD,,
+luckycharmgold.com,Main,PvM Ready,Gauntlet Ready (85s),108,1323,85,85,85,85,85,,,,Legacy No Email,129.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Med Level,Piety Med Level (75 ATT Jagex),101,,75,90,,90,94,,,,Piety,179.00,USD,,Jagex Launcher
+luckycharmgold.com,Main,Staker,Death Matching Staker,122,,99,99,99,,,,,,,169.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Starter,Barrows Gloves + Lunar Diplomacy,56,956,50,50,,,,15,,,,59.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Med Level,Maxed Med Level Infernal + Quiver + Golem Pet,107,1657,75,99,70,99,,,,,Infernal Cape + Quiver + Golem Pet,569.00,USD,,
+luckycharmgold.com,Main,Med Level,Maxed Med Level Infernal + Quiver,107,1659,75,99,70,99,,,,,Infernal Cape + Quiver,549.00,USD,,
+luckycharmgold.com,Main,Max Main,Maxed Melee Main,119,1122,99,99,99,99,99,,,,,199.00,USD,,Legacy No Email
+luckycharmgold.com,Main,Max Main,Maxed Melee Main (Minor Ban 25% off),119,,99,99,99,99,,,,,Minor Ban Discount,150.00,USD,,Legacy No Email
+luckycharmgold.com,Zerker,Zerker Starter,Barrows Gloves Zerker Starter,60,,50,57,,52,56,,,,,49.00,USD,,
+luckycharmgold.com,Zerker,Zerker Starter,Starter Zerk MM2 + B Gloves,70,,50,49,,79,,43,,,"MM2 + BG",99.00,USD,,
+luckycharmgold.com,Zerker,Max Zerker,Maxed Zerker Account,83,,50,99,45,99,94,15,,,No Email Registered,219.00,USD,,No Email
+luckycharmgold.com,Zerker,Infernal Zerker,Maxed Infernal + Quiver Zerker (60 ATK),93,,60,99,45,99,,52,,,Infernal Cape + Quiver + 83 Construction,499.00,USD,,
+luckycharmgold.com,Zerker,Max Zerker,Maxed Zerker Pure 60 ATK,92,,60,99,45,99,,52,,,83 Construction,249.00,USD,,Legacy No Email
+luckycharmgold.com,Zerker,Max Zerker,Maxed Zerker Pure 75 ATK,97,,75,99,45,99,,52,,,,229.00,USD,,Legacy No Email
+luckycharmgold.com,Zerker,Mid Zerker,Zerker 50 Attack (Mid),79,,50,90,,90,94,,,,Mid-level build,159.00,USD,,
+luckycharmgold.com,Zerker,Max Zerker,Maxed Zerker Pure (50 ATT),89,,50,99,45,99,,52,,,83 Construction + No Email,229.00,USD,,No Email
+luckycharmgold.com,Zerker,Mid Zerker,Zerker MM2 + B Gloves,84,,50,90,,90,,43,,,MM2 + BG + 83 Construction,219.00,USD,,
+luckycharmgold.com,Zerker,Zerker Starter,Zerker B Gloves + Untradables,73,,50,80,,,,22,,,,89.00,USD,,Jagex Launcher
+luckycharmgold.com,Zerker,Max Zerker,Maxed Void Zerker Pure,89,,50,99,45,99,,31,,,Full Void Elite,169.00,USD,,No Email
+luckycharmgold.com,Zerker,Infernal Zerker,Maxed Zerker 75 ATK Infernal + Quiver,97,,75,99,45,99,,52,,,Infernal Cape + Quiver + 83 Construction,449.00,USD,,
+luckycharmgold.com,Zerker,Infernal Zerker,Maxed Zerker 50 ATK Infernal + Quiver,89,,50,99,45,99,,52,,,Infernal Cape + Quiver,449.00,USD,,
+luckycharmgold.com,Zerker,Infernal Zerker,Maxed Zerker 60 ATK Infernal + Quiver,92,,60,99,45,99,,52,,,Infernal Cape + Quiver,449.00,USD,,
+luckycharmgold.com,Zerker,Infernal Zerker,Insane Maxed Zerker Inf+Quiver (Build 1),92,,60,99,45,99,,,,,,449.00,USD,,No Email
+luckycharmgold.com,Zerker,Infernal Zerker,Insane Maxed Zerker Inf+Quiver (Build 9),89,,50,99,45,99,,,,,Email Set,399.00,USD,,
+luckycharmgold.com,Zerker,Infernal Zerker,Insane Maxed Zerker Inf+Quiver + MM2,87,,60,90,,90,,43,,,MM2 + Infernal Cape + Quiver,399.00,USD,,
+luckycharmgold.com,Zerker,Max Zerker,Maxed 60 ATT Zerker Pure,92,,60,99,45,99,,55,,,83 Construction + No Email,249.00,USD,,No Email
+playerauctions.com,Starter,Starter,Starter Account 164 TL CB 7,7,164,,,,,,,,,Fresh account,5.00,USD,,
+playerauctions.com,Main,Max Main,120 CB 99 ATT/STR 91 DEF 77 MAG,120,,99,99,91,,77,,,,High combat main,209.99,USD,,
+playerauctions.com,Premium,End Game Main,Max Combat Main 2200+ TL 300+ QP,,2200+,,,,,,,,,Avernic + Fire Cape,1099.99,USD,,
+playerauctions.com,Premium,End Game Main,Max Combat Main 2260+ TL 332 QP,,2260+,,,,,,,,332,Avernic + Elite Void,1243.87,USD,,
+playerauctions.com,Premium,Maxed,Legacy 126 CB Grandmaster Max Cape 2277 TL,126,2277,,,,,,,,,"Grandmaster + Max Cape + Legacy",3000.00,USD,,Legacy
+zeusx.com,Premium,Near-Max,Max Main 2376 TL 800M Bank + Quiver + 12 Bonds,,2376,,,,,,,,,"Corrupted Quiver + ~300M Cash + 12 Bonds + No Bans",2485.00,USD,,
+eldorado.gg,Staker,Max Melee,Maxed Combat Staker (average market),,,,,,,,,,,,100.00,USD,,
+eldorado.gg,Premium,Maxed,Standard Maxed Account (low),,,,,,,,,,,,"$300-1500 range (low end)",300.00,USD,,
+eldorado.gg,Premium,Maxed,Standard Maxed Account (high),,,,,,,,,,,,"$300-1500 range (high end)",1500.00,USD,,
+eldorado.gg,Premium,Maxed,High-End w/ Rare Items and Pets,,,,,,,,,,,,Rare Pets + 3rd Age,2000.00,USD,,
+eldorado.gg,Premium,Maxed,200M Total XP Account,,,,,,,,,,,,200M XP per skill,2000.00,USD,,
+eldorado.gg,Premium,End Game Main,Legacy Max Combat Main Example,,,,,,,,,,,,"Example listing",800.00,USD,,Legacy
+eldorado.gg,Premium,End Game Main,Account with Rare Pets Example,,,,,,,,,,,,Rare Pets,1200.00,USD,,
+eldorado.gg,Premium,End Game Main,Account with 3rd Age Pickaxe Example,,,,,,,,,,,,3rd Age Pickaxe,1500.00,USD,,
