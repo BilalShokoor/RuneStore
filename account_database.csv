@@ -1,0 +1,38 @@
+source,account_type,category,description,combat_level,total_level,attack,strength,defence,ranged,magic,prayer,hitpoints,quest_points,notable_features,price_usd,currency_original,stock,login_type
+empirers.sell.app,Starter,Melee Starter,OTP 40 Base Melee Trade Unlocked,,,,40,40,40,,,,20,Trade Unlocked,0.38,USD,232,Jagex Launcher OTP
+empirers.sell.app,Starter,Melee Starter,OTP 50 Base Melee Trade Unlocked,,,,50,50,50,,,,20,Trade Unlocked,0.69,USD,830,Jagex Launcher OTP
+empirers.sell.app,Starter,Melee Starter,OTP 60 Base Melee Trade Unlocked,,,,60,60,60,,,,20,Trade Unlocked,1.49,USD,2148,Jagex Launcher OTP
+empirers.sell.app,Starter,Melee Starter,OTP 70 Base Melee Trade Unlocked,,,,70,70,70,,,,20,Trade Unlocked,2.69,USD,165,Jagex Launcher OTP
+empirers.sell.app,Starter,Melee Starter,OTP 80 Base Melee Trade Unlocked,,,,80,80,80,,,,20,Trade Unlocked,5.99,USD,45,Jagex Launcher OTP
+empirers.sell.app,Mid-tier,Melee + Range,OTP 60 Range 40 Melee Trade Unlocked,,,40,40,40,60,,,,20,Trade Unlocked,0.99,USD,0,Jagex Launcher OTP
+empirers.sell.app,Mid-tier,Melee + Range,OTP 70 Range 40 Melee Trade Unlocked,,,40,40,40,70,,,,20,Trade Unlocked,1.29,USD,0,Jagex Launcher OTP
+empirers.sell.app,Mid-tier,Total Level,OTP 500TTL Trade Unlocked,,,500,,,,,,,,20,Trade Unlocked,1.49,USD,174,Jagex Launcher OTP
+empirers.sell.app,Mid-tier,Total Level,OTP 750TTL Trade Unlocked,,750,,,,,,,,,Trade Unlocked,3.99,USD,16,Jagex Launcher OTP
+empirers.sell.app,Premium,Barrows Gloves,OTP Barrows Gloves 70 Base Melee,,,70,70,70,,,,,176-210,Barrows Gloves,14.99,USD,0,Jagex Launcher OTP
+rsaccounts.ca,Mid-tier,Main,1600 TL Base 70 Kills 100 QP,,1600,70+,70+,70+,70+,70+,,70+,100,Base 70 stats - multiple quests,195.00,USD,1,
+rsaccounts.ca,Pure,1 Def Pure,1 Defense + Rock Golem Pet,,,,,1,,,,,,Rock Golem Pet - 20 quests,17.50,USD,1,
+rsaccounts.ca,Pure,1 Def Pure,1 Defense 94 Magic,,,,,1,,94,,,0,,26.00,USD,0,
+rsorder.com,Staker,Max Melee,Max Melee Staker 99 ATT/STR/DEF,,,99,99,99,,,,,,Hand-trained,69.99,USD,,
+rsorder.com,Premium,End Game Main,Sick End Game Main 2256 Total 332 QP,,2256,,,,,,,,332,Maxed combat - end game gear,4599.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (low),,,,,,,,,,267+,Quest Cape,329.59,USD,,
+rsorder.com,Premium,End Game Main,Quest Cape End Game Main (high),,,,,,,,,,267+,Quest Cape + extras,459.59,USD,,
+rsorder.com,Premium,End Game Main,Epic Infernal Main (low),,,,,,,,,,,,Infernal Cape,425.59,USD,,
+rsorder.com,Premium,End Game Main,Epic Infernal Main (high),,,,,,,,,,,,Infernal Cape + Quiver,599.59,USD,,
+rsorder.com,Pure,Max Pure,Maxed AGS Infernal Pure 99 STR/RAN/MAG,,,75,99,,99,99,,,, Infernal Cape,359.59,USD,,
+rsorder.com,Pure,Infernal Pure,Infernal/Quiver Pure 52-75 ATT (low),,,52,,,,,,,,,299.59,USD,,
+rsorder.com,Pure,Infernal Pure,Infernal/Quiver Pure 52-75 ATT (high),,,75,,,,,,,,,559.59,USD,,
+rsorder.com,Pure,F2P Pure,F2P Pure 40 ATT 99 STR/RAN/MAG,,,40,99,,99,99,,,,F2P optimized,215.59,USD,,
+rsorder.com,Pure,Obby Mauler,Obby Mauler Pure 99 STR/Range/MAG,,,,99,,99,99,,,,Obby Mauler build,219.59,USD,,
+rsorder.com,Pure,Dark Bow Pure,Dark Bow Pure 99 Range 10 HP,,,,,,99,,,10,,10 HP - Dark Bow spec,279.59,USD,,
+rsorder.com,Ironman,HCIM,Hardcore Ironman (low),,,,,,,,,,,FC + BG,199.59,USD,,
+rsorder.com,Ironman,HCIM,Hardcore Ironman (high),,,,,,,,,,,FC + BG + extras,299.99,USD,,
+rsorder.com,Ironman,Regular Ironman,Regular Ironman,,,,,,,,,,,,249.59,USD,,
+rsorder.com,Mid-tier,DS2 Main,Maxed Melee DS2 Account,,,,,,,,,,,,DS2 complete,279.59,USD,,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 90 STR Pure,62,,,40,90,1,,,,,,47.32,EUR,11,Jagex Launcher
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 90 STR Pure w/ 99 Range,71,,40,90,1,99,,,,,,138.83,EUR,4,Jagex Launcher
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure,67,,40,99,1,,,,,,Hand-trained,83.26,EUR,13,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 70 Range,67,,40,99,1,70,,,,,Hand-trained,100.44,EUR,9,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 80 Range,67,,40,99,1,80,,,,,Hand-trained,108.65,EUR,10,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 90 Range,68,,40,99,1,90,,,,,Hand-trained,146.64,EUR,13,
+ezrsaccounts.com,Pure,1 Def Pure,40 ATT 99 STR Pure w/ 99 RAN + Mith Gloves,77,,40,99,1,99,,,,,Mith Gloves,169.20,EUR,8,Jagex Launcher
+ezrsaccounts.com,Mid-tier,Main,75 ATT 99 STR Main w/ 75 DEF 80 RAN/MAG,98,,75,99,75,80,80,,,,Hand-trained,108.46,EUR,,Jagex Launcher
