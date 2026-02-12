@@ -32,3 +32,29 @@ OSRS (Old School RuneScape) account marketplace project. Currently in **planning
 | Empirers | Bulk starter king (3,500+ stock) |
 | Eldorado.gg | Largest marketplace, TradeShield insurance |
 | PlayerAuctions | Biggest P2P platform, up to $30k listings |
+
+## Current Status & Next Steps
+
+**Phase:** Planning / Research (no code or site built yet)
+**What's done:**
+1. Market analysis across 16 platforms with 129+ account listings cataloged
+2. Full pricing database in CSV format
+3. Business intelligence doc covering production economics, legal/TOS risks, payment strategy, platform fees, marketing channels, trust building, seasonal trends, and key metrics
+
+**What's NOT done yet (potential next steps):**
+- Decide on storefront platform (Sell.app at 3%, Sellix, or custom)
+- Decide on account categories to focus on (pures? zerkers? mains? starters?)
+- Decide on supply model (self-trained, outsourced, broker, hybrid)
+- Build the actual storefront / website
+- Branding, logo, domain selection
+- Payment integration setup
+- Create product listing templates
+- Set up Discord server for customer engagement
+- Create Sythe.org / Trustpilot profiles for reputation building
+
+## Environment Notes
+
+- **GitHub CLI (gh):** Installed at `C:\Users\Patrick Bateman\AppData\Local\gh-cli\bin\gh.exe` (v2.86.0)
+- **GitHub Account:** BilalShokoor
+- **Repo:** https://github.com/BilalShokoor/RuneStore (public, branch: master)
+- **Platform:** Windows 10 Pro
